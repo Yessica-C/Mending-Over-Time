@@ -1,9 +1,0 @@
-.idea/workspace.xml
-.gitattributes
-/src/main/resources/
-/build/
-/gradle/
-/out/
-/run/
-/.gradle/
-/.idea/
