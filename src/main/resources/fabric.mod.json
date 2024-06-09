@@ -28,8 +28,8 @@
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
     "minecraft": "${minecraft_version}",
-    "modmenu": ">=9.0.0",
-    "cloth-config": ">=13.0.121"
+    "modmenu": ">=10.0.0-beta.1",
+    "cloth-config": ">=14.0.126"
   },
     "mixins": [
       "MendingOverTime.mixins.json"
