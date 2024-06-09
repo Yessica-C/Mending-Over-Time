@@ -8,10 +8,8 @@ import me.shedaniel.autoconfig.annotation.ConfigEntry;
 class MOTConfig implements ConfigData
 {
     @ConfigEntry.Gui.Tooltip
-    @ConfigEntry.Gui.RequiresRestart
     int repairAmount = 1;
 
     @ConfigEntry.Gui.Tooltip
-    @ConfigEntry.Gui.RequiresRestart
     int hitBound = 800;
 }
