@@ -2,5 +2,6 @@
   "text.autoconfig.mendingovertime.option.repairAmount": "Repair Amount",
   "text.autoconfig.mendingovertime.option.repairAmount.@Tooltip": "How much durability is repaired each hit.",
   "text.autoconfig.mendingovertime.option.hitBound": "Repair Frequency",
-  "text.autoconfig.mendingovertime.option.hitBound.@Tooltip": "Average ticks between repair hits. Higher is less frequent."
+  "text.autoconfig.mendingovertime.option.hitBound.@Tooltip": "Average ticks between repair hits. Higher is less frequent.",
+  "text.autoconfig.mendingovertime.title": "Mending Over Time Config"
 }
